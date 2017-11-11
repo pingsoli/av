@@ -42,7 +42,7 @@ void check_nullptr(void *ptr, const char *message)
   }
 }
 
-int main(int argc, char *argv[])
+int main1(int argc, char *argv[])
 {
   const char      *filename = NULL;
   AVFormatContext *pFormatCtx = NULL;

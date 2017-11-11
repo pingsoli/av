@@ -1,3 +1,0 @@
-/home/pingsoli/workspace/ffmpeg/av/build/CMakeFiles/rebuild_cache.dir
-/home/pingsoli/workspace/ffmpeg/av/build/CMakeFiles/edit_cache.dir
-/home/pingsoli/workspace/ffmpeg/av/build/CMakeFiles/main.dir
