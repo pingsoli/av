@@ -38,7 +38,7 @@ void  fill_audio(void *udata,Uint8 *stream,int len){
     audio_len -= len;   
 }   
   
-int main(int argc, char* argv[])  
+int main2(int argc, char* argv[])  
 {  
     AVFormatContext *pFormatCtx;  
     int             i, audioStream;  

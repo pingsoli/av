@@ -32,3 +32,5 @@ target_link_libraries( main
   -lmp3lame -lx264 -lopus -lass -lfreetype -lswresample
   -ltheoraenc -ltheora -ltheoradec -lvorbis -lvorbisenc -lvdpau
   -lm -ldl -pthread -lz -lva -lX11 -lva-x11 -lva-drm -lstdc++ )
+
+add_custom_target( run ../bin/main ../bin/test.mp4 )
