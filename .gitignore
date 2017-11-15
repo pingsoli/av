@@ -1,3 +1,9 @@
+# Ignore top directory
 bin/*
 build/*
 src/*.swp
+
+# Tutorial directory
+tutorial/fsplayer/bin/*
+tutorial/fsplayer/build/*
+

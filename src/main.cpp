@@ -1,12 +1,9 @@
-#include "CWindow.h"
-#include "demux.h"
 #include <iostream>
+#include <cstdio>
+#include <SDL.h>
 
 int main(int argc, char *argv[])
 {
-  const char      *filename = NULL;
-  AVFormatContext *pFormatCtx = NULL;
-
   if (argc != 2) {
     std::cout << "Usage: <execute file> <video file>" << std::endl;
     return -1;
